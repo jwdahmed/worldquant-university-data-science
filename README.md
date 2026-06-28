@@ -1,8 +1,8 @@
 # WorldQuant University – Applied Data Science (with honors)
 
 **16-week program | Completed: December 06, 2021**
-**Credential:** [Credly Badge](https://www.credly.com/badges/e1651f04-abf8-4d69-8cac-974f89abe945/public_url)
-[Credly Badge]([https://www.credly.com/badges/e1651f04-abf8-4d69-8cac-974f89abe945](https://www.credly.com/badges/34f61ed4-a1b7-44c7-b378-8b9967fb3ecc/public_url)
+**Credential:** [Credly Badge Module I](https://www.credly.com/badges/e1651f04-abf8-4d69-8cac-974f89abe945/public_url)
+**Credential:** [Credly Badge Module II](https://www.credly.com/badges/34f61ed4-a1b7-44c7-b378-8b9967fb3ecc/public_url)
 
 This repository contains **code samples and project summaries** from my WQU Applied Data Science coursework. All code is original work I wrote during the program. Data and instructor materials are not included to respect WQU's intellectual property.
 
