@@ -57,9 +57,11 @@ def sieve(n):
             for j in range(i*i, n+1, i):
                 bool_list[j] = False
     return [i for i, val in enumerate(bool_list) if val]
+```
 
 ### Object-Oriented Programming (vc)
 
+```
 class Point:
     """2D point with vector operations"""
     
