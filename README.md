@@ -1,6 +1,7 @@
 # WorldQuant University – Applied Data Science (with honors)
 
 **16-week program | Completed: December 06, 2021**
+
 **Module I:** [Credly Badge](https://www.credly.com/badges/e1651f04-abf8-4d69-8cac-974f89abe945/public_url)
 **Module II:** [Credly Badge](https://www.credly.com/badges/34f61ed4-a1b7-44c7-b378-8b9967fb3ecc/public_url)
 
