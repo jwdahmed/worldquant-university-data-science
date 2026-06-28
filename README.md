@@ -22,7 +22,7 @@ This repository contains **code samples and project summaries** from my WQU Appl
 
 ---
 
-## Key Functions & Algorithms (Pure Python)
+## Key Functions & Algorithms (Python)
 
 ### Program Flow (`ip`)
 
